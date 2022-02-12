@@ -103,6 +103,7 @@ Berikut daftar Volunter yang diterima:
 * Joko Ardiyanto, [LinkedIn](https://www.linkedin.com/in/joko-a-b848a0131).
 * Jolie Felicia, [LinkedIn](https://www.linkedin.com/in/jolie-felicia-186900218/).
 * Jordano Darmawan, [LinkedIn](https://www.linkedin.com/in/jordanoid/).
+* Jonathan, [Linkedin](https://www.linkedin.com/in/Jonathan/).
 
 ### K
 * Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
